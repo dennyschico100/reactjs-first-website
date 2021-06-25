@@ -23,7 +23,7 @@ const Navbar = () => {
                     <ul className={menuIcon ? 'nav-menu active' : 'nav-menu'}>
                             <li className="nav-item">
                                 <Link to="/" className="nav-links" onClick={closeMobileMenu}  >
-                                    Inicio
+                                    Inicio 
                                 </Link>
 
                             </li>
